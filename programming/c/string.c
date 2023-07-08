@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #include <string.h> // 문자열을 다루는 함수들이 선언된 헤더 파일
 
 int main(void)

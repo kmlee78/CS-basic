@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
@@ -14,10 +14,9 @@ struct point
 {
     int x;
     int y;
-}
+};
 
-int
-main(void)
+int main(void)
 {
     // 구조체 변수를 선언하는 방법
     struct student s;

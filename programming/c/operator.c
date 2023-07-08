@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #include <math.h>            // pow 함수를 사용하기 위해 math.h 헤더파일을 포함
 #define SECOND_PER_MINUTE 60 // 60을 상수 SECOND_PER_MINUTE으로 정의
 

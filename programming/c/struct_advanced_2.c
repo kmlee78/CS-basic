@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #define SIZE 5
 
 struct student

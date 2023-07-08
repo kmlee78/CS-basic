@@ -1,21 +1,20 @@
-#include <studio.h>
+#include <stdio.h>
 #include <math.h>
 
 struct point
 {
     int x;
     int y;
-}
+};
 
 struct rect
 {
     struct point p1;
     struct point p2;
-}
+};
 
 // 두 점을 입력받아서 사각형의 넓이와 둘레를 출력하는 프로그램
-int
-main(void)
+int main(void)
 {
     struct rect r;
     printf("왼쪽 상단 모서리 x, y 좌표를 입력하세요: ");

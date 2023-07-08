@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 int hour; // 전역 변수
 int minute;

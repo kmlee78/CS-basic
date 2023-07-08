@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #define NUMBER 5
 
 int main(void)

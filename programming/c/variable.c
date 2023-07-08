@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #include <limits.h> // INT_MAX를 사용하기 위해 limits.h 헤더파일을 포함
 
 int main(void)
