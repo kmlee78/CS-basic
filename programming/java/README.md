@@ -7,4 +7,5 @@
 5. [함수](https://github.com/kmlee78/CS-basic/blob/main/programming/java/function.java)
 6. [재귀함수](https://github.com/kmlee78/CS-basic/blob/main/programming/java/recursive_function.java)
 7. [배열](https://github.com/kmlee78/CS-basic/blob/main/programming/java/array.java)
-8. [클래스]
+8. [클래스](https://github.com/kmlee78/CS-basic/blob/main/programming/java/class.java)
+9. [상속](https://github.com/kmlee78/CS-basic/blob/main/programming/java/inheritance.java)
